@@ -1,2 +1,2 @@
-# battlenet-api-client
+# 🚀 BattleNet API Client for PHP
 

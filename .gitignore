@@ -1,0 +1,21 @@
+# Composer Dependencies
+/vendor/
+composer.phar
+composer.lock
+
+# IDE and Editor directories
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Local Environment files
+.env
+.env.local
+.env.*.local
