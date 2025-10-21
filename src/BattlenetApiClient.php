@@ -7,6 +7,9 @@ use Exception;
 /**
  * Client pour interagir avec l'API Battle.net de Blizzard.
  * Gère l'authentification OAuth (Client Credentials), la mise en cache du token et des réponses.
+ * 
+ * @author Beriyack
+ * @version 1.0.0
  */
 class BattlenetApiClient
 {
